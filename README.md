@@ -1,6 +1,6 @@
 # How to upload a new map
 
-1. Prepare your map folder. Take a look into [MapTemplate](/tree/mapTemplate) how your map folder must look like.
+1. Prepare your map folder. Take a look into [MapTemplate](../../tree/mapTemplate) how your map folder must look like.
 ![01_MapTemplate](01_MapTemplate.png)
 
 2. Create a fork.
