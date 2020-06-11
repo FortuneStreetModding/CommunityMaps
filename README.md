@@ -12,17 +12,17 @@ To upload a new map to this repository you must create a pull request using the 
 2. Create a fork.
 ![02_Fork](02_Fork.png)
 
-3. Drag'n'drop your map folder into the repository.
-![04_DragNDropFolder](04_DragNDropFolder.png)
+3. Make sure you are one the `master` branch. Drag'n'drop your map folder into your forked repository.
+![03_DragNDropFolder](03_DragNDropFolder.png)
 
 4. Select `Create a new branch for this commit and start pull request`. Give the branch the same name as your map.
-![05_NameBranchAndStartPullRequest](05_NameBranchAndStartPullRequest.png)
+![04_NameBranchAndStartPullRequest](04_NameBranchAndStartPullRequest.png)
 
 5. Click on `compare across forks`.
-![06_CompareAcrossForks](06_CompareAcrossForks.png)
+![05_CompareAcrossForks](05_CompareAcrossForks.png)
 
 6. Select base repository `FortuneStreetModding/CommunityMaps`.
-![07_SelectFortuneStreetCommunityMaps](07_SelectFortuneStreetCommunityMaps.png)
+![06_SelectFortuneStreetCommunityMaps](06_SelectFortuneStreetCommunityMaps.png)
 
 7. Make sure the base is set to `master`. You can now create the pull request.
-![08_PullRequestReady](08_PullRequestReady.png)
+![07_PullRequestReady](07_PullRequestReady.png)
