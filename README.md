@@ -2,7 +2,7 @@
 
 To upload a new map to this repository you must create a pull request using the branch `newMap` as base and follow the [MapTemplate](../../tree/mapTemplate).
 
-** Please test your map at least one full game before creating a pull request!! **
+**Please test your map at least one full game before creating a pull request!!**
 
 ## Step by step guide
 
