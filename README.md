@@ -1,18 +1,27 @@
 # How to upload a new map
 
-To upload a new map to this repository you must create a pull request using the branch `newMap` as base and follow the [MapTemplate](../../tree/mapTemplate).
+To upload a new map to this repository you must create a pull request using the branch `master` as base create a new folder for your map. The folder must contain:
+- 1 .md file
+- 1-4 frb files
+- at least one screenshot
 
-**Please test your map at least one full game before creating a pull request!!**
+You can take a look at one of the map templates [TemplateMap_Colony](../../tree/master/TemplateMap_Colony) or [TemplateMap_Colossus](../../tree/master/TemplateMap_Colossus) or the other maps in this repository.
+
+**Please test your map at least one full game before creating a pull request!**
 
 ## Step by step guide
 
-1. Prepare your map folder. Take a look into [MapTemplate](../../tree/mapTemplate) how your map folder must look like.
+1. Prepare your map folder. Take a look into one of the map templates [TemplateMap_Colony](../../tree/master/TemplateMap_Colony) or [TemplateMap_Colossus](../../tree/master/TemplateMap_Colossus) how your map folder must look like.
 ![01_MapTemplate](01_MapTemplate.png)
+The folder must contain:
+- 1 .md file
+- 1-4 frb files
+- at least one screenshot
 
 2. Create a fork.
 ![02_Fork](02_Fork.png)
 
-3. Make sure you are one the `master` branch. Drag'n'drop your map folder into your forked repository.
+3. Drag'n'drop your map folder into your forked repository.
 ![03_DragNDropFolder](03_DragNDropFolder.png)
 
 4. Select `Create a new branch for this commit and start pull request`. Give the branch the same name as your map.
