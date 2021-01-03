@@ -215,6 +215,10 @@ Make a wish and blow.
 
 </details>
 
+### v2
+- increased starting money to 1500
+
+
 ### v1
 - Initial Release
 

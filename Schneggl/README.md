@@ -12,7 +12,7 @@ Good things take time.
 
 | Map Properties    |      Value |
 | ----------------- | ---------- |
-| Initial Cash      |       1000 |
+| Initial Cash      |       1500 |
 | Target Amount     |      15000 |
 | Base Salary       |        500 |
 | Salary Increment  |        225 |
@@ -213,6 +213,10 @@ Good things take time.
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+
+### v2
+- increased starting money to 1500
+- replaced 2 vacant plots with properties (owning all 3 inner ones was too insane)
 
 ### v1
 - Initial Release

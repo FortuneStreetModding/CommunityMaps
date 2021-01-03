@@ -12,7 +12,7 @@ Watch out for the Islands.
 
 | Map Properties    |      Value |
 | ----------------- | ---------- |
-| Initial Cash      |       1000 |
+| Initial Cash      |       1750 |
 | Target Amount     |      25000 |
 | Base Salary       |        500 |
 | Salary Increment  |        225 |
@@ -213,6 +213,11 @@ Watch out for the Islands.
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+
+### v2
+- increased starting money to 1750
+- replaced 1 property with a teleport (bank) on both islands
+- relocated an alley exit to help with path selection
 
 ### v1
 - Initial Release

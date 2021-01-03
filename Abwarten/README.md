@@ -13,7 +13,7 @@ Prepare to be patient.
 
 | Map Properties    |      Value |
 | ----------------- | ---------- |
-| Initial Cash      |       1000 |
+| Initial Cash      |       1750 |
 | Target Amount     |      15000 |
 | Base Salary       |        500 |
 | Salary Increment  |        225 |
@@ -214,6 +214,9 @@ Prepare to be patient.
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+### v2
+- increased starting money to 1750
+- replaced 3 properties with another cannon, stock broker and teleport (bank)
 
 ### v1
 - Initial Release

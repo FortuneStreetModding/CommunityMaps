@@ -14,7 +14,7 @@ Vier fruchtbare Inseln
 | Map Properties    |      Value |
 | ----------------- | ---------- |
 | Initial Cash      |       2000 |
-| Target Amount     |      20000 |
+| Target Amount     |      25000 |
 | Base Salary       |        500 |
 | Salary Increment  |        225 |
 | Maximum Dice Roll |          7 |
@@ -214,6 +214,9 @@ Vier fruchtbare Inseln
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+
+### v2
+- fixed access to bank from 1, 3, 4, 34
 
 ### v1
 - Initial Release

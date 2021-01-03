@@ -15,7 +15,7 @@ Huge map.
 
 | Map Properties    |      Value |
 | ----------------- | ---------- |
-| Initial Cash      |       1000 |
+| Initial Cash      |       1500 |
 | Target Amount     |      25000 |
 | Base Salary       |        500 |
 | Salary Increment  |        225 |
@@ -216,6 +216,10 @@ Huge map.
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+
+### v2
+- fixed destination for the white teleporter
+- increased starting money to 1500
 
 ### v1
 - Initial Release
