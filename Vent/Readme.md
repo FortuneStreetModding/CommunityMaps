@@ -4,10 +4,10 @@ This one blows.
 
 ## Screenshots
 
-![Vent0.frb](Vent0.png)
-![Vent1.frb](Vent1.png)
-![Vent2.frb](Vent2.png)
-![Vent3.frb](Vent3.png)
+![vent0.frb](vent0.png)
+![vent1.frb](vent1.png)
+![vent2.frb](vent2.png)
+![vent3.frb](vent3.png)
 
 ## Features
 
@@ -31,10 +31,10 @@ This one blows.
 | ----------------- | ---------------------- |
 | Rules             |               Standard |
 | Theme             |                  Mario |
-| FRB File Name 1   |                  Vent0 |
-| FRB File Name 2   |                  Vent1 |
-| FRB File Name 3   |                  Vent2 |
-| FRB File Name 4   |                  Vent3 |
+| FRB File Name 1   |                  vent0 |
+| FRB File Name 2   |                  vent1 |
+| FRB File Name 3   |                  vent2 |
+| FRB File Name 4   |                  vent3 |
 
 </details>
 
