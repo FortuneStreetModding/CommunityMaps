@@ -214,6 +214,8 @@ Watch out for the Islands.
 
 </details>
 
+## Changelog
+
 ### v2
 - increased starting money to 1750
 - replaced 1 property with a teleport (bank) on both islands
