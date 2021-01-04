@@ -214,6 +214,7 @@ Prepare to be patient.
 | 128 |     | Special bonus! You receive 55 times the number of shops you own in gold coins from the bank!                     |
 
 </details>
+
 ### v2
 - increased starting money to 1750
 - replaced 3 properties with another cannon, stock broker and teleport (bank)
