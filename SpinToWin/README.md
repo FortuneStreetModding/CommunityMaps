@@ -217,6 +217,8 @@ Huge map.
 
 </details>
 
+## Changelog
+
 ### v2
 - fixed destination for the white teleporter
 - increased starting money to 1500
