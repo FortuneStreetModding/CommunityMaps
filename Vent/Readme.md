@@ -217,6 +217,8 @@ This one blows.
 
 </details>
 
+## Changelog
+
 ### v1
 - Initial Release
 
