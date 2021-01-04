@@ -215,6 +215,8 @@ Prepare to be patient.
 
 </details>
 
+## Changelog
+
 ### v2
 - increased starting money to 1750
 - replaced 3 properties with another cannon, stock broker and teleport (bank)
