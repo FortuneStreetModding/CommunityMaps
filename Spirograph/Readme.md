@@ -217,6 +217,8 @@ The Marvelous Wondergraph.
 
 </details>
 
+## Changelog
+
 ### v1
 - Initial Release
 
