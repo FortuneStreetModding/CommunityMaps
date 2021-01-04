@@ -214,6 +214,8 @@ Good things take time.
 
 </details>
 
+## Changelog
+
 ### v2
 - increased starting money to 1500
 - replaced 2 vacant plots with properties (owning all 3 inner ones was too insane)
