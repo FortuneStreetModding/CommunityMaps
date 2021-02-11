@@ -219,10 +219,6 @@ Don't fear change.
 
 ## Changelog
 
-### v2
-- increased starting money to 1750
-- replaced 3 properties with another cannon, stock broker and teleport (bank)
-
 ### v1
 - Initial Release
 
